@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/markov-vis/static/css/main.0924d059.chunk.css",
+    "main.js": "/markov-vis/static/js/main.171050bc.chunk.js",
+    "main.js.map": "/markov-vis/static/js/main.171050bc.chunk.js.map",
+    "runtime-main.js": "/markov-vis/static/js/runtime-main.63acf63c.js",
+    "runtime-main.js.map": "/markov-vis/static/js/runtime-main.63acf63c.js.map",
+    "static/js/2.9e06bac3.chunk.js": "/markov-vis/static/js/2.9e06bac3.chunk.js",
+    "static/js/2.9e06bac3.chunk.js.map": "/markov-vis/static/js/2.9e06bac3.chunk.js.map",
+    "index.html": "/markov-vis/index.html",
+    "precache-manifest.789a1e4b5eb973e547e5a7621e78ce2e.js": "/markov-vis/precache-manifest.789a1e4b5eb973e547e5a7621e78ce2e.js",
+    "service-worker.js": "/markov-vis/service-worker.js",
+    "static/css/main.0924d059.chunk.css.map": "/markov-vis/static/css/main.0924d059.chunk.css.map",
+    "static/js/2.9e06bac3.chunk.js.LICENSE.txt": "/markov-vis/static/js/2.9e06bac3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/markov-vis/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63acf63c.js",
+    "static/js/2.9e06bac3.chunk.js",
+    "static/css/main.0924d059.chunk.css",
+    "static/js/main.171050bc.chunk.js"
+  ]
+}
