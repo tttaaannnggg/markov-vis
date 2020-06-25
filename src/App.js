@@ -34,7 +34,7 @@ function InputText(props) {
           setCorpus(text);
         }}
       >
-        render tree
+        render graph
       </button>
     </div>
   );
